@@ -82,7 +82,6 @@ This project pushed my understanding of user interaction, state handling, and mo
 ## 📬 Connect With Me
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/aryanmalhotra112003/)
-* 🐙 [GitHub](https://github.com/aryanmalhotra112003)
 
 ---
 
@@ -93,8 +92,4 @@ Feel free to explore and build on it!
 
 `````
 
-✅ **Fix Summary:**  
-The issue was due to four backticks (` ```` `) instead of three around the first code block. That caused Markdown to misinterpret where the code block ended.
-
-You’re now good to go! Paste this as-is into your README file.
 `````
