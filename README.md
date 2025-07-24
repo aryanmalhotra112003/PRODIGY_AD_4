@@ -1,4 +1,3 @@
-````markdown
 # 🕹️ Tic-Tac-Toe Game App
 
 A minimal yet complete **Tic-Tac-Toe mobile game** built using **Flutter & Dart** as part of my internship with **Prodigy InfoTech**. This app offers a smooth, intuitive, and fun user experience — complete with real-time state updates, win/draw detection, and a sleek reset mechanism.
