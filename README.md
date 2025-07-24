@@ -1,4 +1,7 @@
-# 🕹️ Tic-Tac-Toe Game App 
+Here’s a version of your README that **fixes the grey block issue** (caused by misused triple backticks in your clone command section). You can **copy-paste this directly** into your `README.md`:
+
+````markdown
+# 🕹️ Tic-Tac-Toe Game App
 
 A minimal yet complete **Tic-Tac-Toe mobile game** built using **Flutter & Dart** as part of my internship with **Prodigy InfoTech**. This app offers a smooth, intuitive, and fun user experience — complete with real-time state updates, win/draw detection, and a sleek reset mechanism.
 
@@ -30,22 +33,22 @@ To run this app locally:
 
 1. **Clone the repo:**
 
-   ```bash
-   git clone https://github.com/aryanmalhotra112003/PRODIGY_AD_4.git
-   cd PRODIGY_AD_4
+```bash
+git clone https://github.com/aryanmalhotra112003/PRODIGY_AD_4.git
+cd PRODIGY_AD_4
 ````
 
 2. **Install dependencies:**
 
-   ```bash
-   flutter pub get
-   ```
+```bash
+flutter pub get
+```
 
 3. **Run the app:**
 
-   ```bash
-   flutter run
-   ```
+```bash
+flutter run
+```
 
 ---
 
@@ -91,5 +94,10 @@ This project pushed my understanding of user interaction, state handling, and mo
 This project is for educational and internship demonstration purposes.
 Feel free to explore and build on it!
 
+`````
 
----
+✅ **Fix Summary:**  
+The issue was due to four backticks (` ```` `) instead of three around the first code block. That caused Markdown to misinterpret where the code block ended.
+
+You’re now good to go! Paste this as-is into your README file.
+`````
