@@ -90,6 +90,3 @@ This project pushed my understanding of user interaction, state handling, and mo
 This project is for educational and internship demonstration purposes.
 Feel free to explore and build on it!
 
-`````
-
-`````
