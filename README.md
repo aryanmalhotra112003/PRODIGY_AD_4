@@ -6,21 +6,21 @@ A minimal yet complete **Tic-Tac-Toe mobile game** built using **Flutter & Dart*
 
 ## 📱 Features
 
-- 🎮 Classic **Tic-Tac-Toe gameplay** (X vs O)
-- 🧠 Intelligent **win/draw detection**
-- 🔁 Single-tap **Reset** functionality
-- ✨ Clean, responsive **UI with Provider state management**
-- 💡 Logical separation of UI and game logic for maintainability
-- 🧪 Exhaustively tested for all winning, draw, and edge cases
+- 🎮 Classic **Tic-Tac-Toe gameplay** (X vs O)  
+- 🧠 Intelligent **win/draw detection**  
+- 🔁 Single-tap **Reset** functionality  
+- ✨ Clean, responsive **UI with Provider state management**  
+- 💡 Logical separation of UI and game logic for maintainability  
+- 🧪 Exhaustively tested for all winning, draw, and edge cases  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Flutter** – for UI & cross-platform development
-- **Dart** – for backend logic & state updates
-- **Provider** – for efficient state management
-- **Android Studio / VS Code** – for development & debugging
+- **Flutter** – for UI & cross-platform development  
+- **Dart** – for backend logic & state updates  
+- **Provider** – for efficient state management  
+- **Android Studio / VS Code** – for development & debugging  
 
 ---
 
@@ -49,7 +49,6 @@ To run this app locally:
 
 ---
 
-
 ## 🧪 Test Coverage
 
 This app has been **exhaustively tested** under various conditions:
@@ -59,7 +58,6 @@ This app has been **exhaustively tested** under various conditions:
 * ✅ Reset button working mid-game and post-game
 * ✅ Alternating turns and prevention of overwriting moves
 * ✅ Responsive layout and UI updates
-
 
 ---
 
@@ -84,11 +82,18 @@ This project pushed my understanding of user interaction, state handling, and mo
 ## 📬 Connect With Me
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/aryanmalhotra112003/)
+* 🐙 [GitHub](https://github.com/aryanmalhotra112003)
 
 ---
 
 ## 🔖 License
 
-This project is for educational and internship demonstration purposes. Feel free to explore and build on it!
+This project is for educational and internship demonstration purposes.
+Feel free to explore and build on it!
 
-```
+`````
+
+---
+
+
+`````
