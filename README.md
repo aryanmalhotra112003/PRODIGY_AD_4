@@ -1,5 +1,3 @@
-Here’s a version of your README that **fixes the grey block issue** (caused by misused triple backticks in your clone command section). You can **copy-paste this directly** into your `README.md`:
-
 ````markdown
 # 🕹️ Tic-Tac-Toe Game App
 
